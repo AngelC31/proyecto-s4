@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44467",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\ProyectosMVC\\GhostG-api\\GhostG-api\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
